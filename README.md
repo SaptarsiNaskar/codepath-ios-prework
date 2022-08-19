@@ -1,4 +1,4 @@
-## NAME_OF_YOUR_APP_HERE
+## Hello From Sap
 
 ### App Description
 `TODO://` The app 'Hello World' opens an app with a custom text and background color and a button that changes the text color
